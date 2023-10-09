@@ -12,9 +12,6 @@ I'm 23yo and live in Itu, São Paulo, Brazil. I'm a Full Stack developer, curren
 I'm a Technology and Cinema enthusiast.
 I love music, i'm a big fan of Deftones and The Strokes.
 
-![Most Used Language Badge](https://github-readme-stats.vercel.app/api/top-langs/?username=danillo-expedito&theme=tokyonight)
-![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=danillo-expedito&theme=tokyonight)
-
 ### Programming languages
 ![JS Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TS Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -45,3 +42,6 @@ I love music, i'm a big fan of Deftones and The Strokes.
 ![ESLINT Badge](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
 ![JWT Badge](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 
+
+![Most Used Language Badge](https://github-readme-stats.vercel.app/api/top-langs/?username=danillo-expedito&theme=tokyonight)
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=danillo-expedito&theme=tokyonight)
