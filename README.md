@@ -10,8 +10,10 @@
 
 I'm 23yo and live in Itu, São Paulo, Brazil. I'm a Full Stack developer, currently studying Web Development at Trybe.
 I'm a Technology and Cinema enthusiast.
+I love music, i'm a big fan of Deftones and The Strokes.
 
-![Most Used Language Badge](https://github-readme-stats.vercel.app/api/top-langs/?username=danillo-expedito)
+![Most Used Language Badge](https://github-readme-stats.vercel.app/api/top-langs/?username=danillo-expedito&theme=tokyonight)
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=danillo-expedito&theme=tokyonight)
 
 ### Programming languages
 ![JS Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
