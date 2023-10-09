@@ -1,4 +1,5 @@
-### Hello there, I'm [Danillo](https://danillo-expedito.github.io/) 👋
+### Hello there, I'm [Danillo](https://danillo-expedito.github.io/) 🤘
+
 
 ## About me
 
