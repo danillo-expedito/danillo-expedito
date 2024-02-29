@@ -5,7 +5,7 @@
 
 <img align="right" width=80px src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzJhbWw4eHdjMHpmYTVkbnZicXoxcndtZ3I5cmNndm9tOWYwa3A0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XXYkaKVk1Luda/giphy.gif" />
 
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white&target=_blank)](https://danillo-expedito.github.io)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://danillo-expedito.github.io)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=[https://](https://www.linkedin.com/in/danillo-expedito/)https://www.linkedin.com/in/danillo-expedito/)](https://www.linkedin.com/in/danillo-expedito/)
 [![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:dnashy@hotmail.com)](mailto:dnashy@hotmail.com)
 
@@ -46,3 +46,11 @@ I love music, i'm a big fan of Deftones and The Strokes.
 
 ![Most Used Language Badge](https://github-readme-stats.vercel.app/api/top-langs/?username=danillo-expedito&theme=tokyonight)
 ![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=danillo-expedito&theme=tokyonight)
+
+<script>
+  document.querySelectorAll('a').forEach(item => {
+    if (item.hostname !== window.location.hostname) {
+      item.setAttribute('target', '_blank');
+    }
+  });
+</script>
