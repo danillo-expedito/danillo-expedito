@@ -11,10 +11,8 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=[https://](https://www.linkedin.com/in/danillo-expedito/)https://www.linkedin.com/in/danillo-expedito/)](https://www.linkedin.com/in/danillo-expedito/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:danilloexp@gmail.com)](mailto:danilloexp@gmail.com)
 
+Hello! I'm Danillo, a Full Stack Web Developer from Itu, São Paulo, Brazil. I gratuated in Web Development from Trybe. My expertise includes varios technologies, which you can find listed below. I have a strong passion for technology and cinema. Music is another one of my interests, with Deftones and The Strokes being among my favorite bands.
 
-I'm 23yo and live in Itu, São Paulo, Brazil. I'm a Full Stack developer, currently studying Web Development at Trybe.
-I'm a Technology and Cinema enthusiast.
-I love music, i'm a big fan of Deftones and The Strokes.
 
 ### Programming languages
 ![JS Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
