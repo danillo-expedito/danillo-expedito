@@ -1,17 +1,85 @@
-### Hello there!
+<h1 align="center">Hi, I'm Danillo Expedito <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bird.png" width="28px"/></h1>
+<h2 align="center">
+  <div>
+      a Full Stack Web Developer
+  </div>
+  <div>
+    <img src="https://komarev.com/ghpvc/?username=danillo-expedito&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
+    <a href="https://[your-portfolio-link]">
+      <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
+    </a>
+  </div>
+</h2>
 
+<div align="center">
+ <img alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHo3bzc3NTdhczJxbHBpcWZkM3htcjU3Zm5lNTRnOXE0NDVlbTk3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i8XwYIrN6MehG/giphy.webp" />
+  <p font-size="12px">
+    I am a passionate Fullstack Developer with a strong foundation in both frontend and backend technologies. A versatile developer specializing in **MERN, Android Development, and Chatbot Development** with a passion for continuous learning. My expertise lies in integration, improving user interfaces, and enhancing overall user experiences. I thrive on solving challenging problems and creating innovative solutions.
+  </p>
+</div>
 
-## About me
+<div align="center">
+  <h2>Contact</h2>
+  <a href="https://www.linkedin.com/in/danillo-expedito/" target="_blank" >
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=[https://](https://www.linkedin.com/in/danillo-expedito/" />
+  </a>
+  <a href="mailto:danilloexp@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:danilloexp@gmail.com)](mailto:danilloexp@gmail.com)" />
+  </a>
+  <a href="https://www.instagram.com/danillo_exp/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</div>
+<details>
+ <summary>
+    <h2> 
+      <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark%20Tabs.png" width="37" /> 
+    Resume
+    </h2>
+</summary>
 
+ <details>
+  <summary><h4> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/academics.gif" width="29"/> Academics</h4></summary>
+  <span><img src="https://img.shields.io/badge/BTECH-[YourUniversity]-1877F2?style=for-the-badge"></span>
+  <span><img src="https://img.shields.io/badge/GPA-[YourGPA]-EFEEE9?style=for-the-badge"></span>
+ </details>
 
-<img align="right" width=80px src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzJhbWw4eHdjMHpmYTVkbnZicXoxcndtZ3I5cmNndm9tOWYwa3A0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XXYkaKVk1Luda/giphy.gif" />
+ <details>
+  <summary><h4> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/experience.gif" width="29"/> Experience</h4></summary>
+  - **[Your Role] ** at [Company] | [Duration]
+    - [Work Description]
+ </details>
+</details>
+<details>
+  <summary><h4> <img align="center" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="29"/> Coding Handles</h4></summary>
+  [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://www.leetcode.com/[your-handle])
+  [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/[your-handle])
+  [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/[your-handle]/practice)
+</details>
 
+<details>
+  <summary><h4> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/techstack.gif" width="29"/> Tech Stack</h4></summary>
+  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+</details>
+<details>
+  <summary><h4> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/projects.gif" width="29"/> Projects</h4></summary>
 
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://danillo-expedito.github.io)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=[https://](https://www.linkedin.com/in/danillo-expedito/)https://www.linkedin.com/in/danillo-expedito/)](https://www.linkedin.com/in/danillo-expedito/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:danilloexp@gmail.com)](mailto:danilloexp@gmail.com)
-
-I'm Danillo, a Full Stack Web Developer from Itu, São Paulo, Brazil. I gratuated in Web Development from Trybe. My expertise includes varios technologies, which you can find listed below. I have a strong passion for technology and cinema. Music is another one of my interests, with Deftones and The Strokes being among my favorite bands.
+  #### <a href="https://github.com/[YourUsername]/[Project-Name]">[Project Name]</a>
+  <span><img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></span>
+  - Implemented features to notify users about new opportunities.
+  - Achieved a user base of X, surpassing initial projections.
+</details>
+<details>
+  <summary><h2> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
+  <div align="center">
+    ![](https://github-readme-stats.vercel.app/api?username=[YourUsername]&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+    ![](https://github-readme-streak-stats.herokuapp.com/?user=[YourUsername]&theme=tokyonight&hide_border=false)<br/>
+    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+    ![](https://github-readme-activity-graph.vercel.app/graph?username=[YourUsername]&theme=tokyo-night)
+  </div>
+</details>
 
 
 ### Programming languages
