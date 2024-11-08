@@ -118,16 +118,16 @@
   <p>
     Feel free to reach out if you want to collaborate on a project, ask a question, or just say hi!
   </p>
-  <a href="https://www.linkedin.com/in/danillo-expedito/">
+  <a href="https://www.linkedin.com/in/danillo-expedito/" target="_blank">
       <img alt="Linkedin Badge" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/danillo_exp/">
+  <a href="https://www.instagram.com/danillo_exp/" target="_blank">
       <img alt="Instagram Badge" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:danillo.sub@gmail.com">
+  <a href="mailto:danillo.sub@gmail.com" target="_blank">
       <img alt="Gmail Badge" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.codewars.com/users/danillo-expedito">
+  <a href="https://www.codewars.com/users/danillo-expedito" target="_blank">
       <img alt="Codewars Badge" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" />
   </a>
 </div>
