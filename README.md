@@ -14,16 +14,16 @@
  <h2>
    About Me
  </h2>
- <p>
-     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" />
-     I'm a Fullstack Developer with hands-on experience in JavaScript, React, Node.js, and Python.</p>
- <p>
-     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="25" height="25" />
-     My goal is to join a dynamic tech team and contribute to impactful projects.
- </p>
- <p>
-     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="25" height="25" />
-     I recently completed a 1,500-hour intensive course at Trybe, focusing on full-stack development.</p>
+    <p>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" />
+        I'm a Fullstack Developer focused on backend, with hands-on experience in TypeScript, Node.js, React, and PostgreSQL.</p>
+    <p>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="25" height="25" />
+        Currently pursuing a degree in Systems Analysis and Development (expected 2026), seeking my first opportunity as a Backend/Fullstack Developer.
+    </p>
+    <p>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="25" height="25" />
+        Graduated from Trybe's 1,500-hour intensive full-stack program and certified in Google Cybersecurity (Coursera).</p>
 </div>
 
 <div align="center">
@@ -40,15 +40,18 @@
     <img alt="Bootstrap Badge" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
     <img alt="Tailwind CSS Badge" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
     <h3>Backend</h3>
+    <img alt="TypeScript Badge" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
     <img alt="Nodejs Badge" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
     <img alt="Express Badge" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+    <img alt="Prisma Badge" src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white">
     <img alt="Python Badge" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
     <img alt="FastAPI Badge" src="https://img.shields.io/badge/FastAPI-109989?style=for-the-badge&logo=fastapi&logoColor=white">
-    <img alt="Django Badge" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
     <h3>Databases</h3>
     <img alt="MySQL Badge" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
     <img alt="MongoDB Badge" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
     <img alt="Sequelize Badge" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white">
+    <img alt="PostgreSQL Badge" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+    <img alt="Redis Badge" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
     <h3>Tools</h3>
     <img alt="Git Badge" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
     <img alt="Docker Badge" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
@@ -57,7 +60,7 @@
     <h3>Testing Frameworks</h3>
     <img alt="Jest Badge" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
     <img alt="Mocha Badge" src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white">
-    <img alt="Chai Badge" src="https://img.shields.io/badge/Chai-A30701?style=for-the-badge&logo=chai&logoColor=white">
+    <img alt="Vitest Badge" src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white">
     <img alt="ESLint Badge" src="https://img.shields.io/badge/ESLint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white">
   </div>
 </div>
@@ -88,25 +91,37 @@
     Featured Projects
 </h2>
 <ol>
-  <li>
-    <strong><a href="https://github.com/yourusername/gas-and-water-meter-api">Gas and Water Meter API</a></strong>:<br>
-    A backend service designed to manage gas and water consumption readings, using AI image recognition to extract data from photos of meters.<br>
-    <strong>Stack:</strong> 
-    <img alt="Node.js Badge" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-    <img alt="TypeScript Badge" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-    <img alt="Express Badge" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white">
-    <img alt="MySQL Badge" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" >
-    <img alt="Google Gemini Badge" src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white">
-  </li>
-  <li>
-    <strong><a href="https://github.com/danillo-expedito/trybetunes-vite-ts">TrybeTunes</a></strong>:<br>
-    A modern, responsive music app where users can save their favorite tracks and listen to song previews. Built with Vite for optimized performance, this project offers seamless navigation through React Router and utilizes TypeScript for type safety and maintainability.<br>
-    <strong>Stack:</strong>
-    <img alt="Vite Badge" src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E">
-    <img alt="React Badge" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img alt="TypeScript Badge" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-    <img alt="React Router Badge" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
-  </li>
+    <li>
+      <strong><a href="https://github.com/danillo-expedito/auth-api">Authentication REST API</a></strong>:<br>
+      A production-ready authentication service featuring JWT with refresh token rotation, bcrypt password hashing, per-endpoint rate limiting, Zod validation, and email verification — backed by 54 automated tests.<br>
+      <strong>Stack:</strong>
+      <img alt="Node.js Badge" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+      <img alt="TypeScript Badge" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+      <img alt="Express Badge" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white">
+      <img alt="PostgreSQL Badge" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+      <img alt="Prisma Badge" src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white">
+      <img alt="Redis Badge" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+      <img alt="Vitest Badge" src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white">
+    </li>
+    <li>
+        <strong><a href="https://github.com/danillo-expedito/gas-and-water-meter-api">Gas and Water Meter API</a></strong>:<br>
+        A backend service designed to manage gas and water consumption readings, using AI image recognition to extract data from photos of meters.<br>
+        <strong>Stack:</strong> 
+        <img alt="Node.js Badge" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+        <img alt="TypeScript Badge" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+        <img alt="Express Badge" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white">
+        <img alt="MySQL Badge" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" >
+        <img alt="Google Gemini Badge" src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white">
+    </li>
+    <li>
+        <strong><a href="https://github.com/danillo-expedito/trybetunes-vite-ts">TrybeTunes</a></strong>:<br>
+        A modern, responsive music app where users can save their favorite tracks and listen to song previews. Built with Vite for optimized performance, this project offers seamless navigation through React Router and utilizes TypeScript for type safety and maintainability.<br>
+        <strong>Stack:</strong>
+        <img alt="Vite Badge" src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E">
+        <img alt="React Badge" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+        <img alt="TypeScript Badge" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+        <img alt="React Router Badge" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
+    </li>
 </ol>
 
 
